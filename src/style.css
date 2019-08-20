@@ -1,0 +1,52 @@
+input{
+    width:90%;
+    height:2rem;
+    font-size: 1.2rem;
+    margin:10px 20px ;
+    padding:8px;
+}
+input:focus{
+    outline:none;
+}
+.title{
+    color:black;
+    font:bold;
+    font-size:1rem;
+}
+p{
+    color:grey;
+}
+.news{
+    margin:40px;
+}   
+button{
+    border:none;
+    width:5rem;
+    height:2rem;
+    font-size: 1.2rem;
+    font:bold
+}
+button:focus{
+    outline:none;
+}
+.button{
+    padding:4px;
+}
+a{
+    text-decoration: none;
+}
+
+.select{
+    margin-bottom: 30px;
+    font-size:1.2rem;
+}
+select{
+    width:7rem;
+    height:2rem;
+    font-size:1rem;
+    padding:2px;
+    margin:4px;
+}
+select:focus{
+    outline:none
+}
